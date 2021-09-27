@@ -61,3 +61,24 @@ L'argomento è che l'automazione di una parte dell'economia libera il lavoro per
  
 Per capire come le cose potrebbero essere diverse, potremmo considerare il ruolo che i cavalli hanno giocato nell'economia americana. Nel 1915, 25 milioni di cavalli lavoravano nell'agricoltura e nel trasporto; nel 1960, quel numero era sceso a 3 milioni, e poi abbiamo smesso di tenerne traccia del tutto perché i cavalli sono diventati irrilevanti (Kilby, 2007). Questo declino è avvenuto perché abbiamo capito come costruire trattori, automobili e carri armati. Non c'erano più usi per i quali i cavalli erano superiori a un sostituto meccanico. L'economista Wassily Leontief (1952) ha sottolineato che la stessa cosa potrebbe accadere agli umani nel suo articolo "Macchine e uomini". 
 
+
+
+Gli esseri umani hanno ovviamente una gamma più ampia di abilità rispetto ai cavalli, ed è per questo che finora abbiamo sempre trovato nuovi impieghi. Quindi cosa è cambiato? Fondamentalmente, abbiamo capito come far fare ai computer molte cose che fino a poco tempo fa pensavamo potessero fare solo gli umani, come guidare una macchina. La tecnologia digitale ci dà un calcolo universale a costo marginale zero. Improvvisamente, l'idea che noi hunani potremmo avere meno usi non sembra così inconcepibile. 
+
+Coloro che sostengono che questo è commettere la fallacia del lavoro in blocco sostengono che non abbiamo considerato una nuova serie di attività umane che impiegheranno le persone, ma anche questa linea di pensiero potrebbe essere sbagliata. Solo perché abbiamo trovato nuovi impieghi in passato, non significa che lo faremo in futuro. Chiamo questa convinzione la "fallacia magica dell'occupazione".
+
+Possiamo essere incredibilmente creativi quando si tratta di pensare a nuove cose a cui dedicare il nostro tempo, ma la domanda operativa per le persone che vendono il loro lavoro è se possono essere pagate abbastanza per permettersi soluzioni ai loro bisogni, come cibo, riparo e vestiti. L'unica cosa che conta per questa domanda è se una macchina o un altro umano è in grado di fare qualsiasi cosa a cui pensiamo in modo più economico. 
+
+Questo risulta essere il problema centrale della fallacia dell'occupazione magica. Niente nella teoria economica dice quale dovrebbe essere il "prezzo di mercato di compensazione" per il lavoro - il livello salariale al quale non c'è né disoccupazione né carenza di lavoro. Potrebbe essere ben al di sotto di quello di cui le persone hanno bisogno per coprire i loro bisogni, il che potrebbe rappresentare una minaccia esistenziale a breve termine per molte persone. 
+Sembra quindi che ci troviamo di fronte a un dilemma. Da un lato, vogliamo liberare l'attenzione umana per usi che il ciclo del lavoro non prevede. Dall'altro lato, vogliamo evitare un rapido collasso del ciclo del lavoro. Per capire come possiamo realizzare entrambe le cose, dobbiamo considerare la relazione tra il costo del lavoro e l'innovazione.
+
+
+## Lavoro costoso e innovazione
+
+Alcune persone sostengono che i sindacati hanno reso il lavoro costoso, portando a prodotti e servizi inaccessibili. Ma in realtà, l'aumento del costo del lavoro ci ha spinto a diventare più efficienti: gli imprenditori hanno superato la sfida della manodopera più costosa costruendo macchine migliori che richiedevano meno uomini. In paesi come l'India, l'abbondanza di manodopera a basso costo ha significato che per molto tempo c'era poco incentivo a investire in macchine, poiché era più economico far fare il lavoro a mano alle persone.
+
+A livello globale, corriamo il rischio di rimanere bloccati in una trappola di bassa innovazione proprio a causa della paura che l'automazione renda la manodopera economica. Per esempio, potremmo ritrovarci con molti più anni di persone che guidano camion attraverso il paese, molto tempo dopo che una macchina potrebbe fare lo stesso lavoro in modo più sicuro (Wong, 2016). Qual è l'incentivo ad automatizzare un lavoro se si può trovare qualcuno che lo faccia al minimo salariale? 
+
+Alcune persone si oppongono alle innovazioni dell'automazione sulla base del fatto che il lavoro è parte integrante dell'identità delle persone. Se sei stato un camionista per molti anni, per esempio, chi sarai se perdi il tuo lavoro? All'inizio, questa potrebbe sembrare una domanda del tutto legittima. Ma vale la pena ricordare che l'idea che lo scopo abbia a che fare principalmente con la propria professione, invece che con l'appartenenza a una religione o a una comunità, è un fenomeno dell'era industriale.
+
+Se vogliamo liberare l'attenzione attraverso l'automazione, dobbiamo trovare nuove risposte a queste preoccupazioni. Questo sarà l'argomento della quarta parte, ma prima di arrivarci considereremo perché il capitalismo da solo non può risolvere questi problemi. 
