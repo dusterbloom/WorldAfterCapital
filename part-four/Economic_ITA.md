@@ -1,0 +1,11 @@
+# Parte quarta: Migliorare la libertà
+
+Il mio primo grande obiettivo nello scrivere questo libro è stato quello di dimostrare che attualmente stiamo vivendo un periodo di cambiamento non lineare, e il mio secondo obiettivo è quello di delineare un piano per la nostra transizione verso l'Età della Conoscenza. La nostra sfida è quella di superare i limiti del capitalismo e passare da una società centrata sul ciclo del lavoro a una che abbraccia il ciclo della conoscenza. Questa sezione de *Il mondo dopo il capitale* proporrà dei cambiamenti nella regolamentazione e nell'autoregolamentazione che aumenteranno la libertà umana e libereranno la promessa del ciclo digitale della conoscenza. Ci sono tre componenti per questo:
+ 
+1. 1. Libertà economica. Dobbiamo garantire che i bisogni di tutti siano soddisfatti senza che siano costretti a entrare nel ciclo del lavoro. Una volta che abbiamo la libertà economica, possiamo abbracciare l'automazione e permettere a tutti di partecipare e beneficiare del ciclo della conoscenza digitale. 
+
+2. Libertà di informazione. Dobbiamo rimuovere le barriere al ciclo della conoscenza digitale che limitano la nostra capacità di imparare dalla conoscenza esistente, al fine di accelerare la creazione e la condivisione di nuova conoscenza. Allo stesso tempo, dobbiamo costruire sistemi nel ciclo della conoscenza digitale che supportino l'indagine critica. 
+
+3. Libertà psicologica. Dobbiamo liberarci dal pensiero della scarsità e dalle paure associate che impediscono la nostra partecipazione al ciclo della conoscenza digitale. Imparare, creare e condividere la conoscenza ci richiede di superare le barriere nella nostra mente, alcune delle quali sono evolutive e altre il risultato della pressione sociale.
+
+Con queste maggiori libertà arriverà la possibilità di una transizione pacifica dall'era industriale all'era della conoscenza che non è dettata dall'alto, ma risulta dalle scelte degli individui e delle comunità che formano. Non c'è garanzia che questi cambiamenti saranno sufficienti ad evitare una transizione disastrosa, ma sono convinto che senza di essi ci stiamo dirigendo proprio verso questo, incorrendo in un rischio a livello di specie per l'umanità. Più avanti nel libro discuterò i valori e i sistemi che sono necessari per un'azione collettiva di successo in un mondo di maggiore libertà individuale.
